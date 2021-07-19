@@ -44,4 +44,4 @@ EXEMPLES :
 * AltR + 5 -> €
 
 
-VOus avez pour chaque système les fichiers sources de la disposition, ainsi que le logiciel d'édition pour Windows, vous permettant donc si vous le souhaitez de personnaliser le clavier comme vous le souhaitez.
+Vous disposez pour chaque système des fichiers sources de la disposition ainsi que du logiciel d'édition pour Windows, ainsi vous pouvez, si vous le souhaitez, personnaliser le clavier d'avantage.
