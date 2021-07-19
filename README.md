@@ -5,11 +5,11 @@ Cette disposition clavier vous permet de facon simple et intuitive de profiter d
 
 ## Installation
 
-### Linux
+#### Linux
 
 Executez le script install.sh du dossier linux (sudo requis)
 
-### Windows
+#### Windows
 
 Executer le fichier setupe.exe du dossier windows/fqkl e3t suivez les instructions
 
@@ -32,16 +32,16 @@ Pour utiliser les accents il vous suffit d'utiliser la touche AltR pour les acce
 
 EXEMPLES :
 
-AltR + e -> é
-Shift + AltR + e -> è
-AltR + a -> à
-Shift + AltR + a -> â
-AltR + c -> ç
-AltR + u -> ù
-Shift + AltR + u -> û
-AltR + o -> ô
-AltR + i -> ï
-AltR + 5 -> €
+* AltR + e -> é
+* Shift + AltR + e -> è
+* AltR + a -> à
+* Shift + AltR + a -> â
+* AltR + c -> ç
+* AltR + u -> ù
+* Shift + AltR + u -> û
+* AltR + o -> ô
+* AltR + i -> ï
+* AltR + 5 -> €
 
 
 VOus avez pour chaque système les fichiers sources de la disposition, ainsi que le logiciel d'édition pour Windows, vous permettant donc si vous le souhaitez de personnaliser le clavier comme vous le souhaitez.
