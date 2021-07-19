@@ -26,7 +26,7 @@ Sous Windows, Sélectionnez le clavier 'French Qwerty'
 
 ## Disposition des touches
 
-![Image disposition Clavier](https://github.com/HeRrKrUgEr/french-qwerty-keyboard/blob/master/assets/disposition-clavier.png)
+![Image disposition Clavier](https://github.com/HeRrKrUgEr/french-qwerty-keyboard/blob/master/assets/disposition-clavier-gnome.png)
 
 Pour utiliser les accents il vous suffit d'utiliser la touche AltR pour les accents aigus et SHIFT + AltR pour les accents graves, pour les accents sur les autres lettres comme (a, u, i, c ou o), utilisez la touche AltR vous affichera la lettre avec l'accent le plus souvent utilisé dans la langue française.
 
