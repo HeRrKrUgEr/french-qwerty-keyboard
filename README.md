@@ -19,11 +19,11 @@ Executer le fichier setupe.exe du dossier windows/fqkl e3t suivez les instructio
 Sous Linux, dans les paramètres de votre système sélectionnez le clavier 'US (French Style avec accents)'
 Sous Windows, Sélectionnez le clavier 'French Qwerty'
 
-![Image selection Clavier](https://github.com/HeRrKrUgEr/french-qwerty-keyboard/assets/selection-clavier-gnome.png)
+![Image selection Clavier](https://github.com/HeRrKrUgEr/french-qwerty-keyboard/blob/master/assets/selection-clavier-gnome.png)
 
 ### Combinaison pour faire les Accents
 
-![Image disposition Clavier](https://github.com/HeRrKrUgEr/french-qwerty-keyboard/assets/disposition-clavier.png)
+![Image disposition Clavier](https://github.com/HeRrKrUgEr/french-qwerty-keyboard/blob/master/assets/disposition-clavier.png)
 
 Pour utiliser les accents il vous suffit d'utiliser la touche AltR pour les accents aigus et SHIFT + AltR pour les accents graves, pour les accents sur les autres lettres comme (a, u, i, c ou o), utilisez la touche AltR vous affichera la lettre avec l'accent le plus souvent utilisé dans la langue française.
 
